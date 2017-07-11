@@ -21,3 +21,7 @@ Third-party Libraries
 2).way RestAsssured
 3).N Path
 4).N Schema Validator
+
+Testing
+
+  Run the NasaGetRequest.java file
